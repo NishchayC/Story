@@ -1,0 +1,1 @@
+This is a file 4. It is for testing merge and branch operations of git.
